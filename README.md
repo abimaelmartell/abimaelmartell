@@ -10,5 +10,3 @@ Currently working at [@firecrawl 🔥](https://github.com/firecrawl)
 
 - 🐦 [Twitter](https://twitter.com/abimaelmartell)
 - 🌐 [Personal Website](https://abimael.me)
-
----
