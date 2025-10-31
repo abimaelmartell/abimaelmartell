@@ -2,7 +2,7 @@
 
 **Softare Engineer** based in Tijuana, México 🇲🇽  
 
-Currently contributing to [@tscircuit](https://github.com/tscircuit)
+Currently working at [@firecrawl 🔥](https://github.com/firecrawl)
 
 ---
 
@@ -12,9 +12,3 @@ Currently contributing to [@tscircuit](https://github.com/tscircuit)
 - 🌐 [Personal Website](https://abimael.me)
 
 ---
-
-## ⚡ Fun fact
-
-- I serve in my local church’s tech & worship teams
-- On weekends you’ll find me exploring Baja or cycling through Tijuana
-- I can’t resist a good cortado
