@@ -19,6 +19,7 @@ Senior software engineer at [@firecrawl](https://github.com/firecrawl) 🔥 (YC 
 
 ## 📫 Let's connect
 
+- 🐦 [@abimaelmartell](https://twitter.com/abimaelmartell)
 - 🌐 [abimael.me](https://abimael.me)
 - 💼 [LinkedIn](https://www.linkedin.com/in/abimaelmartell)
 - ✉️ [i@abimael.me](mailto:i@abimael.me)
