@@ -1,6 +1,6 @@
 # Hi, I'm Abimael Martell 🇲🇽
 
-Senior software engineer at [@firecrawl](https://github.com/firecrawl) 🔥 (YC S22). Building data processing infrastructure and developer tools that power AI-driven search and retrieval at scale.
+Member of Technical Staff at [@firecrawl](https://github.com/firecrawl) 🔥 (YC S22). Building data processing infrastructure and developer tools that power AI-driven search and retrieval at scale.
 
 13+ years as an early engineer at startups. TypeScript, Rust, Go, Python, Kubernetes.
 
